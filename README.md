@@ -4,7 +4,7 @@
 **Universidad de La Sabana**  
 **Curso:** Diseño y Arquitectura de Software  
 **Tema:** Frameworks de Persistencia – Introducción a MyBatis  
-**Integrantes:** Julian Andres Vasquez Pedraza - Samuel Sabogal Espinel Leon
+**Integrantes:** Julian Andres Vasquez Pedraza - Samuel Sabogal Espinel Leon - Santiago Buendia Londoño
 
 ---
 
